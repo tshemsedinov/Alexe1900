@@ -1,0 +1,22 @@
+{
+  "name": "alexe1900",
+  "version": "1.0.0",
+  "description": "Just about me)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexe1900/Alexe1900.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexe1900/Alexe1900/issues"
+  },
+  "homepage": "https://github.com/Alexe1900/Alexe1900#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
