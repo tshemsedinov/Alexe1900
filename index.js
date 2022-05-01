@@ -9,14 +9,14 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 
 const projects = require('./data/projects.js');
-const scills = require('./data/scills.js');
+const skills = require('./data/skills.js');
 const languages = require('./data/languages.js');
 const engLevel = require('./data/eng-level.js');
 const getCurrentAge = require('./getCurrentAge.js');
 
 let DATA = {
   age: getCurrentAge('04.08.2011'),
-  scills: scills.map((elem) => elem.toString()).join('\n'),
+  skills: skills.map((elem) => elem.toString()).join('\n'),
   engLevel,
   projects: projects.map((elem) => elem.toString()).join('\n'),
   languages: languages.map((elem) => elem.toString()).join('\n')

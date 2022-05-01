@@ -1,4 +1,4 @@
-const Scill = require('../structures/Scill.js');
+const Scill = require('../structures/Skill.js');
 
 module.exports = [
     new Scill('HTML', 5),
