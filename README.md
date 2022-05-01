@@ -2,7 +2,7 @@ Disclaimer ⚠: Everything you read and see now is *true and I made it **by myse
 
 # Hello 👋
 ---
-## skills
+## Who i am, My skills
 
 My name is *Alexey Bodnarchuk*. I am a boy from Irpin, Ukraine, that is interested in IT 🐱‍💻, Math 📐 and Physics 🍎
 I am a young Frontend-er (***10 years old***), I learn and use different technologies: 
